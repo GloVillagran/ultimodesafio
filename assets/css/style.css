@@ -59,7 +59,7 @@ header {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/assets/img/header.png)
+    background-image: url(../img/header.png)
 }
 
 
@@ -79,7 +79,7 @@ header {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/assets/img/header.png)
+    background-image: url(../img/header.png)
 }
 
 .navbar {
@@ -110,7 +110,7 @@ header {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/assets/img/cap1.png)
+    background-image: url(../img/cap1.png)
 }
 
 .portafolio {
