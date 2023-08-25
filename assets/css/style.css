@@ -1,0 +1,179 @@
+header {
+    text-align: center;
+
+}
+
+.titulo1 {
+    background-color: gray;
+    padding: 50px;
+    margin: 20px;
+    color: white;
+
+}
+
+.imagen {
+    width: 20%;
+}
+
+.titulo2 {
+
+    padding: 30px;
+    margin: 5px;
+}
+
+.resumen {
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin: 25px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/assets/img/header.png)
+}
+
+.titulo1 {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/assets/img/header.png)
+}
+
+.titulo {
+    text-align: center;
+    margin: 20px;
+}
+
+.datos {
+    text-align: left;
+    margin: 40px;
+    padding: 25px;
+
+}
+
+.formacion {
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin: 25px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/assets/img/header.png)
+}
+
+
+.antecedentes {
+    text-align: left;
+    margin: 40px;
+    padding: 25px;
+
+}
+
+.experiencia {
+    text-align:center;
+    justify-content: center;
+    color: white;
+    padding: 50px;
+    margin: 25px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/assets/img/header.png)
+}
+
+.navbar {
+    background-color: rgba(246, 131, 93, 0.679);
+    text-decoration: none;
+}
+
+.expe2 {
+    text-align: left;
+    margin: 40px;
+    padding: 25px;
+}
+
+.final {
+    padding: 5px;
+    margin: 10px;
+}
+
+.tituloport {
+    margin-bottom: 20px;
+    color: white;
+
+}
+
+.portafolio {
+    text-align: center;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/assets/img/cap1.png)
+}
+
+.portafolio {
+    margin: 100px;
+    padding: 50px;
+}
+
+.textoproyec {
+    color: white;
+}
+
+.cards {
+    margin-top: 50px;
+}
+
+footer {
+    background-color: rgba(246, 131, 93, 0.679);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.boton-ig {
+    margin: 10px;
+    text-decoration: none;
+
+}
+.btn-p{
+    background-color: rgba(246, 131, 93, 0.679) !important;
+    color: white !important;
+}
+
+.boton-fb {
+    text-decoration: none;
+    margin: 10px;
+}
+.btn{
+    background-color: rgba(246, 131, 93, 0.679);
+}
+
+.final2 {
+    margin: 20px;
+}
+
+.iconocaract {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.texto1 {
+    margin-top: 30px;
+    text-align: center;
+    margin-right: 50px;
+    padding: 5px;
+}
+
+.texto2 {
+    margin-top: 30px;
+    text-align: center;
+
+
+}
